@@ -1,0 +1,15 @@
+C:\Users\ddc_s\OneDrive\Рабочий стол\Arreys_DZ\Zadachai_04_\bin\Debug\net8.0\Zadachai_04_.exe
+C:\Users\ddc_s\OneDrive\Рабочий стол\Arreys_DZ\Zadachai_04_\bin\Debug\net8.0\Zadachai_04_.deps.json
+C:\Users\ddc_s\OneDrive\Рабочий стол\Arreys_DZ\Zadachai_04_\bin\Debug\net8.0\Zadachai_04_.runtimeconfig.json
+C:\Users\ddc_s\OneDrive\Рабочий стол\Arreys_DZ\Zadachai_04_\bin\Debug\net8.0\Zadachai_04_.dll
+C:\Users\ddc_s\OneDrive\Рабочий стол\Arreys_DZ\Zadachai_04_\bin\Debug\net8.0\Zadachai_04_.pdb
+C:\Users\ddc_s\OneDrive\Рабочий стол\Arreys_DZ\Zadachai_04_\obj\Debug\net8.0\Zadachai_04_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddc_s\OneDrive\Рабочий стол\Arreys_DZ\Zadachai_04_\obj\Debug\net8.0\Zadachai_04_.AssemblyInfoInputs.cache
+C:\Users\ddc_s\OneDrive\Рабочий стол\Arreys_DZ\Zadachai_04_\obj\Debug\net8.0\Zadachai_04_.AssemblyInfo.cs
+C:\Users\ddc_s\OneDrive\Рабочий стол\Arreys_DZ\Zadachai_04_\obj\Debug\net8.0\Zadachai_04_.csproj.CoreCompileInputs.cache
+C:\Users\ddc_s\OneDrive\Рабочий стол\Arreys_DZ\Zadachai_04_\obj\Debug\net8.0\Zadachai_04_.sourcelink.json
+C:\Users\ddc_s\OneDrive\Рабочий стол\Arreys_DZ\Zadachai_04_\obj\Debug\net8.0\Zadachai_04_.dll
+C:\Users\ddc_s\OneDrive\Рабочий стол\Arreys_DZ\Zadachai_04_\obj\Debug\net8.0\refint\Zadachai_04_.dll
+C:\Users\ddc_s\OneDrive\Рабочий стол\Arreys_DZ\Zadachai_04_\obj\Debug\net8.0\Zadachai_04_.pdb
+C:\Users\ddc_s\OneDrive\Рабочий стол\Arreys_DZ\Zadachai_04_\obj\Debug\net8.0\Zadachai_04_.genruntimeconfig.cache
+C:\Users\ddc_s\OneDrive\Рабочий стол\Arreys_DZ\Zadachai_04_\obj\Debug\net8.0\ref\Zadachai_04_.dll
